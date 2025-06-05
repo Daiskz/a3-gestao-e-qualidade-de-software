@@ -57,7 +57,7 @@ Nosso projeto da matéria de Gestão e Qualidade de Software possui o objetivo d
 O servidor estará disponível em `http://localhost:3000`.
 
 # Requisitos
-- [x] **Melhora na Legibilidade**
+- [x] **Melhorias na Legibilidade**
 - [x] **Estrutura adequada com menor complexidade**
 - [x] **SOLID, DRY, KISS e YAGNI**
 - [x] **Testes Unitários**
